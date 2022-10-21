@@ -1,15 +1,13 @@
 ---
 layout: page
 title: Me concernant
-subtitle: Why you'd want to go on a date with me
+subtitle: Qui suis-je ? Mon parcours et mon travail :)
 ---
 
-Je m'appelle Loeiza Hamon.
+Hey, moi c’est Loeiza ! 
+Je suis étudiante en troisième année de DNMADE mention numérique. Mes créations sont principalement réalisées grâce à la suite Adobe même si j'apprécie aussi de passer par le papier. Je réalise notamment des illustrations, des dessins, des motions design, mais aussi, je pratique la photographie. 
+En bref, j'aime travailler l’image sous toutes ses formes.
 
-### Mon parcours
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
-
-### Mon travail
+### Quelques exemples de mon travail :
 
 ![alonso](/assets/img/alonso.jfif)
