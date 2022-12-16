@@ -10,4 +10,4 @@ tags: [Illustrator, Portrait, Flat design]
 
 ## Création d'un portrait en flat design 
 
-![Portrait en flat design](https://github.com/Loeizart/Loeizart.github.io/blob/master/assets/img/flatportraitranitea2.png))
+![Portrait en flat design](https://github.com/Loeizart/Loeizart.github.io/blob/master/assets/img/flatportraitranitea2.png)
