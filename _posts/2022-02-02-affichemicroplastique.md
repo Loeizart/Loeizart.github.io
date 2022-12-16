@@ -10,4 +10,4 @@ tags: [Affiche, Sensibilisation, Illustrator]
 
 ## Création d'une affiche pour sensibilisé au microplastique
 
-![Affiche Scarface](https://github.com/Loeizart/Loeizart.github.io/blob/master/assets/img/afficheformainsta.png)
+![Affiche Scarface](assets/img/afficheformainsta.png)
